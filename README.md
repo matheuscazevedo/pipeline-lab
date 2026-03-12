@@ -4,6 +4,7 @@ Tecnologias Utilizadas
 
 - linux
 - docker
-- docker Compose
+- docker compose
 - git
-- gitHub actions
+- github actions
+- proxy reverso
