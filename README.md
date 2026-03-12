@@ -1,8 +1,8 @@
-basicamente sempre que houver um push na branch main, o github actions vai fazer o checkout do cógido e executar o build do docker image e validar se a aplicação vai compilar completamente.
+basicamente sempre que houver um push na branch main, o github actions vai fazer o checkout do codigo, executar o build do docker image e validar se a aplicação vai compilar completamente.
 
-Tecnologias Utilizadas
+tecnologias utilizadas
 
-- linux
+- flask
 - docker
 - docker compose
 - git
